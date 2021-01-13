@@ -7,6 +7,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -15,60 +25,10 @@
   </component>
   <component name="ProjectId" id="1ibbjoUMEiwoCGrnzOqArYIlw1O" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -81,6 +41,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -96,9 +61,60 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1602179396023">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state x="408" y="177" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602700656019">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="413" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1602179396023" />
+    <state x="408" y="177" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.827@0.23.1440.827" timestamp="1602700656019" />
+    <state width="1398" height="264" key="GridCell.Tab.0.bottom" timestamp="1610535225674">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1602322321021" />
+    <state width="1398" height="264" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1610535225674" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1605975004727" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1602294559572" />
+    <state width="1398" height="264" key="GridCell.Tab.0.center" timestamp="1610535225673">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1602322321020" />
+    <state width="1398" height="264" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1610535225673" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1605975004726" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1602294559571" />
+    <state width="1398" height="264" key="GridCell.Tab.0.left" timestamp="1610535225672">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1602322321020" />
+    <state width="1398" height="264" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1610535225672" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1605975004726" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1602294559570" />
+    <state width="1398" height="264" key="GridCell.Tab.0.right" timestamp="1610535225673">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1602322321021" />
+    <state width="1398" height="264" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1610535225673" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1605975004727" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1602294559571" />
+    <state width="1398" height="264" key="GridCell.Tab.1.bottom" timestamp="1610535225675">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1610535225675" />
+    <state width="1398" height="264" key="GridCell.Tab.1.center" timestamp="1610535225674">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1610535225674" />
+    <state width="1398" height="264" key="GridCell.Tab.1.left" timestamp="1610535225674">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1610535225674" />
+    <state width="1398" height="264" key="GridCell.Tab.1.right" timestamp="1610535225674">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1610535225674" />
+    <state x="413" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1610485258046">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="413" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1602319448785" />
+    <state x="413" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1610485258046" />
+    <state x="413" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1602754519048" />
+    <state x="413" y="281" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1602294389757" />
   </component>
 </project>
